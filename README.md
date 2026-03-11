@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bhoomika and I'm a Software Engineer, from Buffalo, New York.</h2>
+<h2 align="left">Hi 👋! My name is Bhoomika and I'm a Software Engineer, from New York.</h2>
 
 ###
 
