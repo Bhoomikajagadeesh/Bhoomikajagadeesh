@@ -14,20 +14,20 @@
 <p align="left">
 
 <a href="https://github.com/bhoomikajagadeesh" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="50" width="50"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bhoomikajagadeesha/" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="50" width="50"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
 </a>
 
 <a href="https://leetcode.com/u/bhoomikakj/" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="50" width="50" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40" width="40" />
 </a>
 
 </p>
 
-<br><br><br> <!-- adds space before the next section -->
+<br><br> <!-- adds space before the next section -->
 
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
