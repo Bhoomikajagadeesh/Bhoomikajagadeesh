@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://leetcode.com/u/bhoomikakj/" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="50" width="50" />
 </a>
 
 </p>
