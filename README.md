@@ -21,17 +21,23 @@ Software Engineer with 4+ years of experience designing and delivering scalable 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40"/>
 </a>
 
+<img width="12" />
+
 <a href="https://www.linkedin.com/in/bhoomikajagadeesha/" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
 </a>
+
+<img width="12" />
 
 <a href="https://leetcode.com/u/bhoomikakj/" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40" width="40" />
 </a>
 
+<img width="12" />
+
 </p>
 
-<br><br> <!-- adds space before the next section -->
+<br><!-- adds space before the next section -->
 
 <h3 align="left">Frontend Development:</h3>
 <p align="left">
