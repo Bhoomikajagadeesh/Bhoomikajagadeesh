@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhoomika</h1>
 <h3 align="center">Software Engineer | Completed my Master's from the University at Buffalo (Jan 2026) | Actively seeking full-time opportunities</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7f/63/9f/7f639f74e77971624a193a95cb2638d1.gif" />
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bhoomikajagadeesh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -21,10 +23,6 @@
 
 <a href="https://leetcode.com/u/bhoomikakj/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" alt="leetcode" height="30" width="40"/>
-</a>
-
-<a href="https://www.skillshare.com/en/user/raginideshmukh?srsltid=AfmBOorUmjg3U85KPTb6yAWmtyOgrCfCP8OTlP4e4nR5lTN0_9y97sGq" target="_blank">
-<img align="center" src="https://cdn.simpleicons.org/skillshare" alt="skillshare" height="30" width="40"/>
 </a>
 
 </p>
