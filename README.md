@@ -12,9 +12,7 @@
 <h3 align="left">About Me:</h3>
 
 <p align="left">
- 👩‍💻 I’m a Software Engineer and AI/ML enthusiast with experience building scalable backend systems, intelligent applications, and ML platforms. I specialize in end-to-end solutions combining distributed systems, RESTful APIs, cloud infrastructure, and AI/ML models.
-
-I’ve worked on high-throughput services, LLM-powered pipelines, semantic search engines, and production-ready ML/AI systems using Python, FastAPI, PostgreSQL, Redis, and AWS. I’m passionate about writing efficient, maintainable code and creating impactful AI-driven solutions.
+ 👩‍💻 I’m a Software Engineer and AI/ML enthusiast building scalable backend systems, intelligent applications, and ML platforms. I specialize in end-to-end solutions with distributed systems, RESTful APIs, cloud infrastructure, and AI/ML models. I’ve worked on high-throughput services, LLM-powered pipelines, and production-ready ML/AI systems using Python, FastAPI, PostgreSQL, Redis, and AWS.
 
 Check out my repositories to see my projects!!
 </p>
