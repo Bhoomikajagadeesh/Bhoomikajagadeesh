@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhoomika!!</h1>
+<h3 align="center">💻 Software Engineer 
+• 🎓 Completed my Master's from the University at Buffalo (Jan 2026) 
+•Actively seeking full-time opportunities</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" />
 
@@ -9,7 +12,7 @@
 <h3 align="left">About Me:</h3>
 
 <p align="left">
- 👩‍💻 I’m a Software Engineer and AI/ML enthusiast building scalable backend systems, intelligent applications, and ML platforms. I specialize in end-to-end solutions with distributed systems, RESTful APIs, cloud infrastructure, and AI/ML models. I’ve worked on high-throughput services, LLM-powered pipelines, and production-ready ML/AI systems using Python, FastAPI, PostgreSQL, Redis, and AWS.
+ 👩‍💻 I’m a Software Engineer and AI/ML enthusiast building scalable backend systems, intelligent applications, and ML platforms. 
 
 Check out my repositories to see my projects!!
 </p>
