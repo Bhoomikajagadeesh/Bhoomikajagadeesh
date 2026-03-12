@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhoomika</h1>
-<h3 align="center">A Software Engineer from New York</h3>
+<h3 align="center">Software Engineer | Completed my Master's from the University at Buffalo (Jan 2026) | Actively seeking full-time opportunities</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bhoomikajagadeesh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -11,16 +11,23 @@
   </a>
 </p>
 
-- 📫 How to reach me: **bhoomikakoratee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  <a href="https://leetcode.com/u/bhoomikakj/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>
-  <a href="mailto:bhoomikakoratee@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" alt="gmail" height="35" />
-  </a>
+
+<a href="https://github.com/bhoomikajagadeesh" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bhoomikajagadeesha/" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40"/>
+</a>
+
+<a href="https://leetcode.com/u/bhoomikakj/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" alt="leetcode" height="30" width="40"/>
+</a>
+
 </p>
 
 <h3 align="left">Frontend Development:</h3>
