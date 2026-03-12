@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhoomika</h1>
 <h3 align="center">Software Engineer | Completed my Master's from the University at Buffalo (Jan 2026) | Actively seeking full-time opportunities</h3>
 
-<img align="middle" alt="Coding" width="400" src="hhttps://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" />
+<img align="center" alt="Coding" width="400" src="hhttps://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bhoomikajagadeesh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
