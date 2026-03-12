@@ -13,6 +13,15 @@
 Software Engineer with 4+ years of experience designing and delivering scalable backend services, machine learning solutions, and high-performance data pipelines across multiple domains.
 </p>
 
+<h3 align="left">How to connect:</h3>
+
+<p align="left">
+  ✉️ &nbsp;
+  <a href="mailto:bhoomikakoratee@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
