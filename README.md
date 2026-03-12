@@ -9,9 +9,7 @@
 
 <h3 align="left">Professional Summary:</h3>
 
-<p align="left">
-💼 Software Engineer with 4+ years of experience designing and delivering scalable backend services, 🧠 machine learning solutions, and ⚡ high-performance data pipelines across multiple domains.
-</p>
+<h3 align="center">💻 Software Engineer • 🎓 Completed my Master's from the University at Buffalo (Jan 2026) • 🚀 Actively seeking full-time opportunities</h3>
 
 <h3 align="left">How to connect:</h3>
 
