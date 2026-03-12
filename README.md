@@ -7,7 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=bhoomikajagadeesh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+<h3 align="left">Professional Summary:</h3>
 
+<p align="left">
+Software Engineer with 4+ years of experience designing and delivering scalable backend services, machine learning solutions, and high-performance data pipelines across multiple domains.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
