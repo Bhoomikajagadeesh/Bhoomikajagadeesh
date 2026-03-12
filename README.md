@@ -23,6 +23,10 @@
 <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" alt="leetcode" height="30" width="40"/>
 </a>
 
+<a href="https://www.skillshare.com/en/user/raginideshmukh?srsltid=AfmBOorUmjg3U85KPTb6yAWmtyOgrCfCP8OTlP4e4nR5lTN0_9y97sGq" target="_blank">
+<img align="center" src="https://cdn.simpleicons.org/skillshare" alt="skillshare" height="30" width="40"/>
+</a>
+
 </p>
 
 <h3 align="left">Frontend Development:</h3>
