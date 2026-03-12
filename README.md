@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bhoomika</h1>
-<h3 align="center">💻 Software Engineer • 🎓 Completed my Master's from the University at Buffalo (Jan 2026) • 🚀 Actively seeking full-time opportunities</h3>
+<h1 align="center">Hi 👋, I'm Bhoomika!!</h1>
+<h3 align="center">💻 Software Engineer 
+• 🎓 Completed my Master's from the University at Buffalo (Jan 2026) 
+•Actively seeking full-time opportunities</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" />
 
@@ -7,10 +9,14 @@
   <img src="https://komarev.com/ghpvc/?username=bhoomikajagadeesh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Professional Summary:</h3>
+<h3 align="left">About Me:</h3>
 
 <p align="left">
- 👩‍💻 Software Engineer with 4+ years of experience designing and delivering scalable backend services, machine learning solutions, and high-performance data pipelines across multiple domains.
+ 👩‍💻 I’m a Software Engineer and AI/ML enthusiast with experience building scalable backend systems, intelligent applications, and ML platforms. I specialize in end-to-end solutions combining distributed systems, RESTful APIs, cloud infrastructure, and AI/ML models.
+
+I’ve worked on high-throughput services, LLM-powered pipelines, semantic search engines, and production-ready ML/AI systems using Python, FastAPI, PostgreSQL, Redis, and AWS. I’m passionate about writing efficient, maintainable code and creating impactful AI-driven solutions.
+
+Check out my repositories to see my projects!!
 </p>
 
 <h3 align="left">How to connect:</h3>
