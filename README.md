@@ -36,7 +36,7 @@ Check out my repositories to see my projects!!
 
 <img width="12" />
 
-<a href="https://www.linkedin.com/in/bhoomika" target="_blank">
+<a href="https://www.linkedin.com/in/bhoomikakjkora" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
 </a>
 
