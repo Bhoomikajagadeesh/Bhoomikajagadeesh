@@ -28,8 +28,6 @@ Check out my repositories to see my projects!!
 
 <h3>Connect with me:</h3>
 
-<h3>Connect with Me</h3>
-
 <p>
 <a href="https://github.com/bhoomikajagadeesh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="vertical-align:middle"/></a><a href="https://www.linkedin.com/in/bhoomikakjkora"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="vertical-align:middle"/></a><a href="https://leetcode.com/u/bhoomikakj/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" style="vertical-align:middle"/></a>
 </p>
