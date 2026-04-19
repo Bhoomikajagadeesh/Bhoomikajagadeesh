@@ -63,8 +63,6 @@ Explore my repositories to see my projects.
 </a>
 </div>
 
-<br>
-
 <h3>Frontend Development</h3>
 
 <div style="display:flex; flex-wrap:wrap; gap:12px;">
