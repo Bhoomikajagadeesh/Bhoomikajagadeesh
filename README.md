@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Bhoomika!!</h1>
 <h3 align="center">💻 Software Engineer 
 • 🎓 Completed my Master's from the University at Buffalo (Jan 2026) 
@@ -28,22 +27,19 @@ Check out my repositories to see my projects!!
 
 <h3>Connect with Me</h3>
 
-<div style="display:flex; flex-wrap:wrap; gap:15px; align-items:center;">
-
 <a href="https://github.com/bhoomikajagadeesh" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/bhoomikakjkora" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/bhoomikakj/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
 </a>
-
-</div>
-
 <br>
 
 <h3>Frontend Development</h3>
