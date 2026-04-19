@@ -27,13 +27,27 @@ Check out my repositories to see my projects!!
 
 <h3>Connect with Me</h3>
 
-<a href="https://github.com/bhoomikajagadeesh" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</a><a href="https://www.linkedin.com/in/bhoomikakjkora" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a><a href="https://leetcode.com/u/bhoomikakj/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/bhoomikajagadeesh" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+
+    <td>
+      <a href="https://www.linkedin.com/in/bhoomikakjkora" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+
+    <td>
+      <a href="https://leetcode.com/u/bhoomikakj/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3>Frontend Development</h3>
 <div style="display:flex; flex-wrap:wrap; gap:12px;">
