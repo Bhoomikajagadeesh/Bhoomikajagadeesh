@@ -18,27 +18,6 @@ Check out my repositories to see my projects!!
 </p>
 
 
-<h1 align="center">Hi, I'm Bhoomika</h1>
-
-<h3 align="center">
-Software Engineer  
-Completed my Master's from the University at Buffalo (Jan 2026)  
-Actively seeking full-time opportunities
-</h3>
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bhoomikajagadeesh&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<h3>About Me</h3>
-
-<p>
-I am a Software Engineer and AI/ML enthusiast building scalable backend systems, intelligent applications, and ML platforms.  
-Explore my repositories to see my projects.
-</p>
-
 <h3>Contact</h3>
 
 <p>
@@ -49,19 +28,11 @@ Explore my repositories to see my projects.
 
 <h3>Connect with me:</h3>
 
-<div style="display:flex; flex-wrap:wrap; gap:12px;">
-<a href="https://github.com/bhoomikajagadeesh">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-</a>
+<h3>Connect with Me</h3>
 
-<a href="https://www.linkedin.com/in/bhoomikakjkora">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://leetcode.com/u/bhoomikakj/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
-</a>
-</div>
+<p>
+<a href="https://github.com/bhoomikajagadeesh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="vertical-align:middle"/></a><a href="https://www.linkedin.com/in/bhoomikakjkora"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="vertical-align:middle"/></a><a href="https://leetcode.com/u/bhoomikakj/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" style="vertical-align:middle"/></a>
+</p>
 
 <h3>Frontend Development</h3>
 
