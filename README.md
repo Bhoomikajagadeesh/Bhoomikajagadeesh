@@ -5,10 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bhoomikajagadeesh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 <h3 align="left">About Me:</h3>
 
 <p align="left">
