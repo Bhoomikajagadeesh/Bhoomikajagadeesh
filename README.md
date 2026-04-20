@@ -3,8 +3,6 @@
 • 🎓 Completed my Master's from the University at Buffalo (Jan 2026) 
 •Actively seeking full-time opportunities</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d2/41/d1/d241d1214f4245ab1024c86a0059e84d.gif" />
-
 <h3 align="left">About Me:</h3>
 
 <p align="left">
