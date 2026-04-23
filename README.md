@@ -14,19 +14,19 @@ Check out my repositories to see my projects!!
 
 <h3>Connect with me:</h3>
 
-<p align="left">
-
 <a href="mailto:bhoomikakoratee@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/bhoomikajagadeesh">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="vertical-align:middle"/>
-</a><a href="https://www.linkedin.com/in/bhoomikakjkora">
+</a>
+<a href="https://www.linkedin.com/in/bhoomikakjkora">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="vertical-align:middle"/>
-</a><a href="https://leetcode.com/u/bhoomikakj/">
+</a>
+<a href="https://leetcode.com/u/bhoomikakj/">
   <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white" height="40" style="vertical-align:middle"/>
 </a>
+</div>
 
 </p>
 
