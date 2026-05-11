@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhoomika</h1>
-<h3 align="center">Machine Learning Engineer building production AI systems and scalable ML infrastructure.</h3>
+
+Machine Learning Engineer building production AI systems and scalable ML infrastructure.</h3>
 
 - 🔭 I'm currently working on **building LLM-powered ML systems and scalable AI infrastructure while pursuing my M.S. in Engineering Science at the University at Buffalo.**
 
