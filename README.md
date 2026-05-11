@@ -1,21 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhoomika</h1>
 <h3 align="center">Machine Learning Engineer building production AI systems and scalable ML infrastructure.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhoomikajagadeesh&label=Profile%20views&color=0e75b6&style=flat" alt="bhoomikajagadeesh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhoomikajagadeesh" alt="bhoomikajagadeesh" /></a> </p>
-
-- 🔭 I’m currently working on **building LLM-powered ML systems and scalable AI infrastructure while pursuing my M.S. in Engineering Science at the University at Buffalo.**
-
 - 🌱 I’m currently learning **advanced LLM fine-tuning, RAG architectures, and scalable ML system design.**
-
-- 👯 I’m looking to collaborate on **production ML systems, LLM applications, and scalable AI infrastructure projects.**
 
 - 💬 Ask me about **machine learning systems, LLM applications, MLOps, reinforcement learning, and building scalable AI infrastructure.**
 
 - 📫 How to reach me **bhoomikakj30@gmail.com**
-
-- ⚡ Fun fact **I've solved 500+ LeetCode problems and still find dynamic programming puzzles oddly satisfying.**
 
 <p align="left">Programming Languages</p>
 
@@ -111,4 +101,8 @@
   </a>
 </div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhoomikajagadeesh&show_icons=true&locale=en&layout=compact" alt="bhoomikajagadeesh" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhoomikajagadeesh&show_icons=true&locale=en" alt="bhoomikajagadeesh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomikajagadeesh&" alt="bhoomikajagadeesh" /></p>
