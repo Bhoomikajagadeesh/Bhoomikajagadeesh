@@ -6,6 +6,8 @@ Machine Learning Engineer building production AI systems and scalable ML infrast
 
 💬 Ask me about machine learning systems, LLM applications, MLOps, reinforcement learning, and building scalable AI infrastructure.
 
+###
+
 <p align="left">Connect with me:</p>
 
 <div align="left">
@@ -20,6 +22,7 @@ Machine Learning Engineer building production AI systems and scalable ML infrast
   </a>
 </div>
 
+###
 
 <p align="left">Programming Languages</p>
 
