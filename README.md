@@ -1,11 +1,24 @@
-Hi 👋, I'm Bhoomika
+<h3 align="center">Hi 👋, I'm Bhoomika</h3>
+
 Machine Learning Engineer building production AI systems and scalable ML infrastructure.
 
-- 🌱 I'm currently learning advanced LLM fine-tuning, RAG architectures, and scalable ML system design.
+🌱 I'm currently learning advanced LLM fine-tuning, RAG architectures, and scalable ML system design.
+💬 Ask me about machine learning systems, LLM applications, MLOps, reinforcement learning, and building scalable AI infrastructure.
 
-- 💬 Ask me about machine learning systems, LLM applications, MLOps, reinforcement learning, and building scalable AI infrastructure.
+<p align="left">Connect with me:</p>
 
-- 📫 How to reach me bhoomikakj30@gmail.com
+<div align="left">
+  <a href="mailto:bhoomikakj30@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/bhoomikajagadeesha/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://leetcode.com/u/bhoomikakj/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+  </a>
+</div>
+
 
 <p align="left">Programming Languages</p>
 
@@ -87,21 +100,6 @@ Machine Learning Engineer building production AI systems and scalable ML infrast
 
 ###
 
-<p align="left">Social</p>
-
-<div align="left">
-  <a href="mailto:bhoomikakj30@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/bhoomikajagadeesha/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://leetcode.com/u/bhoomikakj/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
-  </a>
-</div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhoomikajagadeesh&show_icons=true&locale=en&layout=compact" alt="bhoomikajagadeesh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhoomikajagadeesh&show_icons=true&locale=en" alt="bhoomikajagadeesh" /></p>
 
