@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Bhoomika</h1>
-<h3 align="center">Machine Learning Engineer building production AI systems and scalable ML infrastructure.</h3>
+Hi 👋, I'm Bhoomika
+Machine Learning Engineer building production AI systems and scalable ML infrastructure.
 
-- 🌱 I’m currently learning **advanced LLM fine-tuning, RAG architectures, and scalable ML system design.**
+- 🌱 I'm currently learning advanced LLM fine-tuning, RAG architectures, and scalable ML system design.
 
-- 💬 Ask me about **machine learning systems, LLM applications, MLOps, reinforcement learning, and building scalable AI infrastructure.**
+- 💬 Ask me about machine learning systems, LLM applications, MLOps, reinforcement learning, and building scalable AI infrastructure.
 
-- 📫 How to reach me **bhoomikakj30@gmail.com**
+- 📫 How to reach me bhoomikakj30@gmail.com
 
 <p align="left">Programming Languages</p>
 
