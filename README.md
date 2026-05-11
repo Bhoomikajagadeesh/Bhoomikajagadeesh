@@ -101,10 +101,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Bhoomikajagadeesh/Bhoomikajagadeesh/output/snake.svg" alt="Snake animation" />
-
-###
