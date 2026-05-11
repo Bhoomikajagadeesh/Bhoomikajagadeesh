@@ -105,6 +105,4 @@ Machine Learning Engineer building production AI systems and scalable ML infrast
 ###
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhoomikajagadeesh&show_icons=true&locale=en" alt="bhoomikajagadeesh" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomikajagadeesh&" alt="bhoomikajagadeesh" /></p>
